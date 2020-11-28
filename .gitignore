@@ -1,0 +1,7 @@
+TODO.md
+
+# kfctl build artifacts
+kubeflow-platform/.cache
+kubeflow-platform/aws_config
+kubeflow-platform/kustomize
+kubeflow-platform/kubeflow_manifest.yaml
